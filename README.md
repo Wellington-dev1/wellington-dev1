@@ -23,5 +23,5 @@
 <div align="center">
   <a href="https://github.com/wellington-dev1">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=wellington-dev1&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellington-dev1&layout=compact&langs_count=5&theme=radical"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellington-dev1&layout=compact&langs_count=5&theme=radical"/>
 </div>
